@@ -2,7 +2,7 @@
 // Use this editor to write, compile and run your Java code online
 import java.util.*;
 
-class HelloWorld {
+class TwoDArray {
     public static void main(String[] args) {
         // initialize 2D array
         int[][] arr = new int[5][6];

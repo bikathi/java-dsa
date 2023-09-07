@@ -1,7 +1,7 @@
 // write an algorithm to find the maximum element in an array
 import java.util.*;
 
-class HelloWorld {
+class ArrayMaxValue {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
